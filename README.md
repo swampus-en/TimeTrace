@@ -32,6 +32,7 @@ TimeTrace is a powerful yet lightweight application that helps users monitor the
 
 - [@NiamulAnkon](https://github.com/NiamulAnkon)
 - [@tanviralamshovon](https://github.com/tanviralamshovon)
+- idea given by @Zesankawsar102
 
 
 ## Installation
